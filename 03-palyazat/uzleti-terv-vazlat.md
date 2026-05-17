@@ -42,7 +42,7 @@
 ### Cél
 
 1. **Új fóliasátor** (**10×25 m**, **dupla felfújt**) – +250 m², jobb hőszigetelés  
-2. **2 meglévő sátor** felújítása **dupla felfújtra** (7,6×27,6 m)  
+2. **2 meglévő sátor** – **vázszerkezet javítás** + **dupla felfújt** (7,6×27,6 m)  
 3. **40 nm palántaház** – ha a támogatási keret engedi (10 M Ft kitöltése)
 
 ### Eredmény
@@ -98,4 +98,4 @@ Indoklás: új fóliasátor + teljes fóliás termesztés bejelentése az EK-ban
 
 ## 8. Összefoglaló
 
-> Szendrei Zsuzsa őstermelő Cserhátsurányban 419,5 m² fóliás és 245,5 m² szabadföldi kertészeti termelést folytat. STÉ kiinduló ~5 107 EUR. A pályázat **új fóliasátor építését**, **két meglévő sátor felújítását**, és **40 nm palántaház** létesítését (ha a keret engedi) támogatja. Igényelt támogatás: **10 millió forint**.
+> Szendrei Zsuzsa őstermelő Cserhátsurányban 419,5 m² fóliás és 245,5 m² szabadföldi kertészeti termelést folytat. STÉ kiinduló ~5 107 EUR. A pályázat **új fóliasátort**, **két meglévő sátor váz- és fóliafelújítását** (acél + dupla felfújt), és **40 nm palántaházat** (ha keret engedi) támogatja. Igényelt támogatás: **10 millió forint**.

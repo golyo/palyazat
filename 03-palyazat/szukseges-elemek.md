@@ -53,7 +53,7 @@
 | # | Elem | Státusz |
 |---|------|---------|
 | 1 | Jelenlegi állapot fotók (2 sátor, szerkezet, fólia, belső) | ☐ |
-| 2 | Felújítási műszaki tartalom (fólia μm, szerkezet elemek) | ☐ |
+| 2 | Felújítási műszaki tartalom (**váz javítás** + dupla fólia μm) | ☐ |
 | 3 | Kivitelezői árajánlatok (min. 3) | ☐ |
 | 4 | Ütemterv (okirat utáni kezdés!) | ☐ |
 | 5 | Tulajdon / használat igazolás telephelyre | ☐ |

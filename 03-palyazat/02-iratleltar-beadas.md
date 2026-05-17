@@ -1,7 +1,7 @@
 # Iratleltár – pályázat benyújtása (KAP-RD09a-2-26)
 
 > **Hivatkozás:** felhívás **13. fejezet** | **Pályázó:** Szendrei Zsuzsa, őstermelő  
-> **Projekt:** 1 új fóliasátor + 2 felújítás + öntözés + 40 nm palánta (feltételes)
+> **Projekt:** 1 új fóliasátor + 2 felújítás (**váz + dupla fólia**) + öntözés + palánta (feltételes)
 > **Beadás:** elektronikus, [MVH](https://www.mvh.allamkincstar.gov.hu/)  
 > **Jelölés:** ☐ nincs | ☑ kész | 🔄 folyamatban
 
@@ -50,14 +50,15 @@
 | C1.4 | Építésügy: engedély / bejelentés (2. melléklet) | ☐ |
 | C1.5 | **Szerződés/számla csak beadás utáni naptól** | ☐ |
 
-### C2. Fóliasátor felújítás + **dupla felfújt** (419,5 m², 2×7,6×27,6 m)
+### C2. Fóliasátor felújítás – **váz javítás** + dupla felfújt (419,5 m², 2×7,6×27,6 m)
 
 | # | Irat | Státusz |
 |---|------|---------|
-| C2.1 | Fotók: külső/belső, szerkezet, fólia, azonosító tábla | ☐ |
-| C2.2 | Műszaki tartalom (**2 réteg fólia**, felfújó, sínek, vas) | ☐ |
-| C2.3 | 3 kivitelezői árajánlat (összehasonlítható) | ☐ |
-| C2.4 | ÉNGY tételes bontás (ha ÉNGY-ben szerepel) | ☐ |
+| C2.1 | Fotók: külső/belső, **váz** (korrozió, sérülés), fólia, azonosító | ☐ |
+| C2.2 | Műszaki tartalom: **váz javítás** (acél, sínek) + dupla fólia + felfújó | ☐ |
+| C2.3 | 3 kivitelezői árajánlat – bontás: **váz / fólia / munkadíj** | ☐ |
+| C2.4 | ÉNGY tételes bontás (acél szerkezet + fólia, ha ÉNGY) | ☐ |
+| C2.5 | Váz állapotfelmérő jegyzőkönyv / javítási lista (kivitelező) | ☐ |
 
 ### C3. Palántaház (40 nm – feltételes)
 

@@ -12,7 +12,7 @@
 | Prioritás | Tevékenység | Indoklás |
 |-----------|-------------|----------|
 | **1.** | **1 db új fóliasátor** (**10×25 m**, 250 m²) – **dupla felfújt** | Hírös típus, 2 réteg fólia + felfújó |
-| **2.** | **2 db meglévő sátor felújítása** – **dupla felfújtra** (**419,5 m²**) | 2×7,6×27,6 m |
+| **2.** | **2 db meglévő sátor felújítása** – **váz javítás** + **dupla felfújt** (**419,5 m²**) | 2×7,6×27,6 m |
 | **3.** | **40 nm palántaház** – *csak ha a 10 M Ft keret nem telik be* | Saját palánta, keret feltöltése |
 
 **Eredményül:** **3 db fóliasátor** – **669,5 m²** összes fóliaterület (419,5 + 250).
@@ -24,7 +24,7 @@
 | # | Tevékenység | Felhívás | Megjegyzés |
 |---|-------------|----------|------------|
 | **A** | **Új fóliasátor építése** (1 db) | 2. célterület – hideghajtató fóliasátrak építése / kertészeti létesítmény | Új építés: beadás **utáni** nap szerződés/számla; egy sátor <500 m² |
-| **B** | **2 db fóliasátor felújítása** | Felújítás, korszerűsítés – **okirat után** | 2×7,6×27,6 m = 419,5 m² |
+| **B** | **2 db fóliasátor felújítása** | Váz javítás + dupla felfújt – **okirat után** | 419,5 m²; fólia + acél |
 | **C** | **40 nm palántanevelő** (feltételes) | 2. célterület – üvegház / kertészeti létesítmény | Ha A+B+infra < 11,76 M Ft |
 | **D** | Öntözés / tápoldatozó | 3.1.2.2. – építéssel együtt | 3 sátor + palánta |
 | **E** | Palánta technológia (ha C) | Eszközbeszerzés | Polc, fűtés, csepegtető |
@@ -52,15 +52,37 @@
 
 *Dupla felfújt:* [Hírös – Duplafelfújt rendszer](https://www.foliahaz.hu/foliahazak/modernizalas/duplafelfujt-rendszer)
 
-### 3.2. B – Felújítás + **dupla felfújt** (2 db, 7,6×27,6 m, 419,5 m²)
+### 3.2. B – Felújítás: **váz javítás** + **dupla felfújt** (2 db, 7,6×27,6 m, 419,5 m²)
+
+A felújítás **nem csak fóliacsere** – a **vázszerkezet javítása** is a pályázat része (biztonság, élettartam, dupla fólia rögzítése).
+
+#### B1 – Vázszerkezet javítás (2 sátor)
+
+| Elem | Munka / tartalom |
+|------|------------------|
+| **Állapotfelmérés** | Szerkezet, kötések, korrozió, deformáció – **fotó** beadás előtt |
+| **Horganyzott acél váz** | Rozsadás kezelése, csavar/kapcsok pótlása |
+| **Ívek, oszlopok, bordák** | Meggörbült elemek egyengetése vagy **cseréje** |
+| **Merevítések** | Lazult, hiányzó kötőelemek pótlása |
+| **Talajrögzítés** | Horgonyzás, lábazat/szoknya ellenőrzés, szükség szerint javítás |
+| **Dupla fóliához** | **Dupla fóliarögzítő sínek** felszerelése a bordákon és végeken |
+| **Ajtó / szellőző** | Keret, görgősín, zsanér javítás (ha sérült) |
+
+#### B2 – Dupla felfújt fedés
 
 | Elem | Munka |
 |------|-------|
-| Fólia | **2 réteg** / fedés (tető + oldal), UV-stabil **≥ 170 µm** |
-| Szerkezet | Vas restaurálás; **dupla fóliarögzítő sínek** |
-| Felfújó | Ventilátor + automata (nyomásra kapcsol) – 2 sátorra |
-| Átalakítás | Meglévő szimpla → dupla felfújt (Hírös vállalja) |
-| Dokumentáció | **Fotók** felújítás / átalakítás előtt (beadás előtt!) |
+| Fólia | **2 réteg** (tető + oldal), UV-stabil **≥ 170 µm** / réteg |
+| Felfújó | Ventilátor + nyomáskapcsoló – 2 sátorra |
+| Átalakítás | Meglévő szimpla → dupla felfújt |
+
+#### B3 – Dokumentáció
+
+| | |
+|---|---|
+| Beadás előtt | **Fotók**: váz (korrozió, sérülés), fólia, belső – sátoronként |
+| Ajánlatkérés | **Külön sor**: váz javítás / acél munka **és** fólia + felfújó |
+| Megvalósítás | Csak **T0 (okirat) után** |
 
 ### 3.3. C – Palántaház 40 nm (feltételes)
 
@@ -87,7 +109,7 @@
 | Prio | Tétel | Költség (Ft) | Támogatás 85% | Megjegyzés |
 |------|-------|--------------|---------------|------------|
 | 1 | **A – Új fóliasátor** (10×25 m, **dupla felfújt**) | 4 500 000 | 3 825 000 | ~3,1 M szimpla + ~40% dupla + tech. |
-| 2 | **B – Felújítás dupla felfújt** (2 db) | 3 900 000 | 3 315 000 | 2× fólia, sínek, ventilátor, munka |
+| 2 | **B – Felújítás** (váz + dupla felfújt, 2 db) | 3 900 000 | 3 315 000 | váz javítás + 2× fólia + sínek + ventilátor |
 | 3 | **D – Öntözés / tápoldat** (3 sátor) | 1 000 000 | 850 000 | |
 | 4 | **C – Palántaház 40 nm** | 1 400 000 | 1 190 000 | *Kisebb keret – dupla miatt* |
 | 5 | **E – Palánta berendezések** | 388 471 | 330 200 | C-hez |

@@ -72,7 +72,7 @@
 
 | Elem | Állapot |
 |------|---------|
-| 2× fóliasátor | felújítandó (fólia, vas) |
+| 2× fóliasátor | felújítandó (**vázszerkezet** + dupla fólia) |
 | Palántanevelő | nincs (terv: 40 nm, ha keret) |
 | Öntözés / tápoldat | ☐ dokumentálni |
 
@@ -94,4 +94,4 @@
 
 **Szendrei Zsuzsa** őstermelőként **Cserhátsurányban** kertészeti termesztést folytat: **419,5 m² fólia** (2×7,6×27,6 m) + **245,5 m² szabadföld** a NAK 665 m²-ből. STÉ kiinduló **~5 107 EUR**.  
 
-**Tervezett pályázat:** 3 sátor **dupla felfújt** (2 felújítás + 1 új 10×25 m) + palánta (ha keret). Fólia utána: **669,5 m²**.
+**Tervezett pályázat:** 2 sátor **váz javítás + dupla felfújt**, 1 új 10×25 m + palánta (ha keret). Fólia utána: **669,5 m²**.

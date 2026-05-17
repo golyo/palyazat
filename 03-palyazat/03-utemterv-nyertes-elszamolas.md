@@ -67,7 +67,7 @@ projekt-KAP-RD09a/
 | Idő | Teendő | Dokumentálni |
 |-----|--------|--------------|
 | T0+ | Munkakezdés (okirat után!) | Fotó: bontás előtt/után, szerkezet |
-| Megvalósítás | Fóliacsere, vas restaurálás | Napló bejegyzések |
+| Megvalósítás | **Váz javítás** (acél), dupla fóliacsere, felfújó | Napló bejegyzések |
 | Folyamat | Anyagbeszerzés | Számlák, szállítólevelek |
 | Kész | Átadás | Műszaki ellenőr, átadás-átvétel |
 

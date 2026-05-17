@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Új sátor** | Hírös **10×25 m**, **dupla felfújt** kivitel (nem a webes szimpla 06-11-25 ár!) |
-| **Meglévő 2 sátor** | **7,6×27,6 m** (419,5 m²) – felújítás + dupla felfújt |
+| **Meglévő 2 sátor** | **7,6×27,6 m** – **váz javítás** + dupla felfújt |
 | Fedés | **2 fóliaréteg** + felfújó ventilátor + nyomáskapcsoló + dupla sínek |
 | STÉ terület | **669,5 m²** beruházás után (dupla réteg **nem** duplázza az STÉ-t) |
 
@@ -136,17 +136,17 @@ Mielőtt rendeltek, nézzétek meg a **meglévő 2 sátort**:
 | Szimpla web ár | ~3,14 M Ft – **nem** dupla; csak összehasonlításhoz |
 | **Dupla becslés** | **~4,2–4,8 M Ft** bruttó |
 
-### 5.2. Felújítás – 2 meglévő sátor duplára
+### 5.2. Felújítás – **váz javítás** + dupla fólia (2 sátor)
 
 | Elem | Megjegyzés |
 |------|------------|
-| Hírös szolgáltatás | Szimpla → [dupla felfújt átalakítás](https://www.foliahaz.hu/foliahazak/modernizalas/duplafelfujt-rendszer) |
-| Anyag | ~2× fólia felület (tető + oldal), sínek, ventilátor |
-| Becslés (2 db) | **~3,5–4,2 M Ft** (pályázat: **3,9 M Ft**) |
+| **Váz** | Rozsda, ív/oszlop javítás-csere, horgonyzás, dupla sínek |
+| Fólia | [Dupla felfújt](https://www.foliahaz.hu/foliahazak/modernizalas/duplafelfujt-rendszer) – 2 réteg + ventilátor |
+| Becslés (2 db) | **~3,5–4,2 M Ft** (pályázat B: **3,9 M Ft** – váz + fólia együtt) |
 
 ### 5.3. Ajánlatkérés – 3 szállító
 
-Kérni: **„10×25 m masszív hideg fóliasátor, dupla felfújt fóliarendszerrel”** + külön: **„2 db 7,6×27,6 m sátor átalakítása dupla felfújtra”**.
+Kérni: **„10×25 m dupla felfújt új sátor”** + **„2 db 7,6×27,6 m: vázszerkezet javítás + dupla felfújt”**.
 
 ### 5.4. Pályázati költségvetés
 
@@ -198,16 +198,25 @@ Időpont: T0 után (pályázat)
 Kérem: anyag + munkadíj külön, 2 sátor összesen
 ```
 
-### 6.3. Fóliacsere – 2 meglévő sátor
+### 6.3. Felújítás – váz + dupla fólia (2 meglévő sátor)
 
 ```
-Tárgy: Fóliacsere ajánlat – 2 db fóliasátor
+Tárgy: Felújítási ajánlat – 2 db fóliasátor (váz + dupla felfújt)
 
-Méret egy sátor: 7,6 m × 27,6 m
-Feladat: régi fólia bontás, új fólia felhelyezés, rögzítés
-Fólia: min. 170 µm UV (vagy megadott típus: S3 / Kristály 4C)
-Időpont: [2026 ősz / 2027 tavasz – T0 után]
-Kérem: anyag + munkadíj külön sorban
+Méret/sátor: 7,6 m × 27,6 m (419,5 m² összesen)
+
+1) VÁZSZERKEZET JAVÍTÁS:
+   - állapotfelmérés, rozsda kezelés
+   - ív/oszlop/borda javítás vagy csere
+   - kötőelemek, horgonyzás, merevítések pótlása
+   - dupla fóliarögzítő sínek felszerelése
+
+2) DUPLA FELFÚJT FÓLIA:
+   - 2 réteg UV fólia (min. 170 µm/réteg)
+   - felfújó ventilátor + nyomáskapcsoló / sátor
+
+Időpont: T0 (okirat) után
+Kérem: külön ár – váz/acél | fólia+tech. | munkadíj | összesen
 ```
 
 ---

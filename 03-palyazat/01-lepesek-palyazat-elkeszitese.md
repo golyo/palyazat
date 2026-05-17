@@ -54,7 +54,7 @@
 | 2.2 | Építészeti-műszaki terv + **2. melléklet** – új fólia + felújítás + palánta | ☐ |
 | 2.3 | **Új fóliasátor:** elhelyezési rajz, műszaki leírás (**10×25 m**, Hírös típus) | ☐ |
 | 2.4 | **3 db árajánlat** – új fóliasátor építés | ☐ |
-| 2.5 | **3 db árajánlat** – fólia felújítás (2 db) | ☐ |
+| 2.5 | **3 db árajánlat** – felújítás: **váz + dupla fólia** (2 db) | ☐ |
 | 2.6 | **3 db árajánlat** – palántaház + technológia (ha keret) | ☐ |
 | 2.7 | **3 db árajánlat** – öntözés / tápoldat (3 sátor) | ☐ |
 | 2.8 | Költségvetés ÉNGY bontásban (építés) + gépek listája (15. melléklet) | ☐ |

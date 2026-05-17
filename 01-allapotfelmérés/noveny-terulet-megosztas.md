@@ -57,8 +57,8 @@ A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fól
 
 | Sátor | Méret | Állapot | Pályázat |
 |-------|-------|---------|----------|
-| 1. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – dupla felfújt** |
-| 2. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – dupla felfújt** |
+| 1. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – váz javítás + dupla felfújt** |
+| 2. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – váz javítás + dupla felfújt** |
 | 3. db | _új_ **10 × 25 m**, dupla felfújt | nincs | **A – új építés** |
 
 **Beruházás után fólia összesen:** **669,5 m²** (419,5 + 250)
