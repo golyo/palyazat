@@ -11,9 +11,9 @@
 | | |
 |---|---|
 | **Új sátor** | Hírös **10×25 m**, **dupla felfújt** kivitel (nem a webes szimpla 06-11-25 ár!) |
-| **Meglévő 2 sátor** | **27,8×7,75 m** – felújítás + **dupla felfújt** átalakítás |
+| **Meglévő 2 sátor** | **7,6×27,6 m** (419,5 m²) – felújítás + dupla felfújt |
 | Fedés | **2 fóliaréteg** + felfújó ventilátor + nyomáskapcsoló + dupla sínek |
-| STÉ terület | **680,9 m²** alapterület (dupla réteg **nem** duplázza az STÉ-t) |
+| STÉ terület | **669,5 m²** beruházás után (dupla réteg **nem** duplázza az STÉ-t) |
 
 **Dupla felfújt:** [foliahaz.hu – Duplafelfújt rendszer](https://www.foliahaz.hu/foliahazak/modernizalas/duplafelfujt-rendszer)
 
@@ -23,21 +23,21 @@
 
 | Cél | Mit kell |
 |-----|----------|
-| **Felújítás** (2× 27,8×7,75 m) | Fólia csere (+ kivitelezés); szerkezet marad – lásd §2 |
+| **Felújítás** (2× **7,6×27,6 m**) | Fólia csere + dupla felfújt – lásd §2 |
 | **Új sátor** (1× **10×25 m**, **dupla**) | Hírös ajánlat: dupla fólia + felfújó rendszer |
-| **Felújítás dupla** (2× 7,75×27,8 m) | 2× fóliaréteg + sínek + ventilátor / sátoronként |
+| **Felújítás dupla** (2× 7,6×27,6 m) | 2× fóliaréteg + sínek + ventilátor / sátoronként |
 | **Pályázat** | Min. **170 µm / réteg**; számlán: fólia + ventilátor + szerelés |
 
 ---
 
-## 2. Fólia – méretezés (**csak felújítás:** 27,8 × 7,75 m)
+## 2. Fólia – méretezés (**csak felújítás:** 7,6 × 27,6 m)
 
 ### 2.1. Szélesség
 
 | Opció | Szélesség | Megjegyzés |
 |-------|-----------|------------|
-| **Ajánlott** | **8,5 m** tekercs | A 7,75 m fesztáv + ív + talajba fektetés miatt biztonságosabb, mint a 7,5 m |
-| Szűkebb | 7,5 m | [Hírös Kristály 3](https://www.foliahaz.hu/termekek/foliak/kristaly-3-folia-7-50m-szeles) – csak ha a meglévő fedés is ilyen; **150 µm**, pályázati minimum alatt |
+| **Közeli** | **7,5 m** tekercs | [Hírös Kristály 3](https://www.foliahaz.hu/termekek/foliak/kristaly-3-folia-7-50m-szeles) – 0,1 m szűkebb |
+| **Ajánlott** | **8,5 m** tekercs | 7,6 m fesztáv + ív + talajba fektetés |
 
 ### 2.2. Hossz (Hírös szabás szabály)
 
@@ -45,7 +45,7 @@
 
 | Sátor hossz | Rendelendő hossz (min.) |
 |-------------|-------------------------|
-| 27,8 m | **29 m** (28 m + 1 m pótlék a 30 m-es szabály miatt) |
+| 27,6 m | **28 m** (Hírös: megkezdett 30 m-nél +1 m → **29 m**) |
 
 *Pontos darabszámot a meglévő sátor borítási módja határoz meg (1 ív / 2 oldal / több sáv) – lásd §2.4.*
 
@@ -53,7 +53,7 @@
 
 | Számítás | m² / sátor | 2 felújítás | +1 új |
 |----------|------------|-------------|-------|
-| Alapterület (padló) | 215 | 430 | 645 |
+| Alapterület (padló) | 209,76 | 419,5 | 629,3 |
 | Borítás + pótlék (~1,35×) | **~290** | **~580** | **~870** |
 | Két sáv 8,5×29 m | 493 | 986 | 1 479 |
 
@@ -146,7 +146,7 @@ Mielőtt rendeltek, nézzétek meg a **meglévő 2 sátort**:
 
 ### 5.3. Ajánlatkérés – 3 szállító
 
-Kérni: **„10×25 m masszív hideg fóliasátor, dupla felfújt fóliarendszerrel”** + külön: **„2 db 27,8×7,75 m sátor átalakítása dupla felfújtra”**.
+Kérni: **„10×25 m masszív hideg fóliasátor, dupla felfújt fóliarendszerrel”** + külön: **„2 db 7,6×27,6 m sátor átalakítása dupla felfújtra”**.
 
 ### 5.4. Pályázati költségvetés
 
@@ -191,7 +191,7 @@ Kérem: bontás (váz / fólia 2 réteg / felfújó tech. / munkadíj), bruttó 
 ```
 Tárgy: Átalakítás dupla felfújtra – 2 db fóliasátor
 
-Méret/sátor: 27,8 × 7,75 m
+Méret/sátor: 7,6 × 27,6 m
 Feladat: meglévő szimpla fedés → dupla felfújt (2 fólia, sínek, ventilátor)
 Fólia: min. 170 µm / réteg
 Időpont: T0 után (pályázat)
@@ -203,7 +203,7 @@ Kérem: anyag + munkadíj külön, 2 sátor összesen
 ```
 Tárgy: Fóliacsere ajánlat – 2 db fóliasátor
 
-Méret egy sátor: 27,8 m × 7,75 m
+Méret egy sátor: 7,6 m × 27,6 m
 Feladat: régi fólia bontás, új fólia felhelyezés, rögzítés
 Fólia: min. 170 µm UV (vagy megadott típus: S3 / Kristály 4C)
 Időpont: [2026 ősz / 2027 tavasz – T0 után]

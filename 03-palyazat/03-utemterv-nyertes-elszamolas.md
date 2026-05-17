@@ -193,7 +193,7 @@ Minden elszámolható tételnél:
 | Tétel | Emlékeztető |
 |-------|-------------|
 | Fólia felújítás | **T0 előtt** csak fotó; szerződés/számla = elutasítás |
-| 430,9 m² | EK és elszámolás egyezzen |
+| 419,5 m² fólia (7,6×27,6 m) | EK és elszámolás egyezzen |
 | Palánta 40 nm | Bejelentés EK-ban → STÉ +472 EUR |
 | Max. 10 M Ft | Záró elszámolás max. jóváhagyott összegig |
 | Saját rész ~15% | Bankszámláról kifizetve, számlával |

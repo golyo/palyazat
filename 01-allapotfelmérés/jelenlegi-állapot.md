@@ -31,9 +31,9 @@
 
 | Paraméter | Érték |
 |-----------|-------|
-| Méret / sátor | **27,8 m × 7,75 m** = 215,45 m² |
+| Méret / sátor | **7,6 m × 27,6 m** = 209,76 m² |
 | Darabszám | **2 db** |
-| **Összes fólia** | **430,9 m²** (= 0,04309 ha) |
+| **Összes fólia** | **419,5 m²** (= 0,04195 ha) |
 | Kultúrák (fóliában) | Paradicsom, paprika, saláta, uborka – [részletes megosztás](noveny-terulet-megosztas.md) |
 | STÉ kód | **V0000_S0000S** |
 
@@ -41,7 +41,7 @@
 
 | Paraméter | Érték |
 |-----------|-------|
-| Terület (számított) | **~234 m²** (NAK 665 m² − fólia 430,9 m²) |
+| Terület (számított) | **245,5 m²** (NAK 665 m² − fólia 419,5 m²) |
 | Kultúrák | Zöldség szabadföldi rész + **málna 40 m²** + **szamóca 25 m²** |
 | STÉ kód | **V0000_S0000TO**, **F3000T** |
 
@@ -60,11 +60,11 @@
 
 | Kategória | STÉ (EUR) |
 |-----------|-----------|
-| Fólia + szabadföld + bogyós (részletezve) | **~5 228** |
-| 5 000 EUR minimum | ☑ |
-| +50% cél (okirat ~5 228) | **≥ 7 842 EUR** |
+| Fólia + szabadföld + bogyós (részletezve) | **~5 107** |
+| 5 000 EUR minimum | ☑ (~107 EUR ráhagyás) |
+| +50% cél (okirat ~5 107) | **≥ 7 661 EUR** |
 
-*Beruházás után (3. fóliasátor): fólia **680,9 m²** → STÉ jelentősen nő – lásd fejlesztési terv.*
+*Beruházás után (3. fóliasátor): fólia **669,5 m²** → STÉ ~**8 060 EUR** (becsült) – lásd fejlesztési terv.*
 
 ---
 
@@ -92,6 +92,6 @@
 
 ## 6. Összefoglaló
 
-**Szendrei Zsuzsa** őstermelőként **Cserhátsurányban** kertészeti termesztést folytat: **430,9 m² fólia** (2 sátor) + **~234 m² szabadföld** a NAK szerinti 665 m²-ből. STÉ kiinduló **~5 228 EUR**.  
+**Szendrei Zsuzsa** őstermelőként **Cserhátsurányban** kertészeti termesztést folytat: **419,5 m² fólia** (2×7,6×27,6 m) + **245,5 m² szabadföld** a NAK 665 m²-ből. STÉ kiinduló **~5 107 EUR**.  
 
-**Tervezett pályázat:** 3 sátor **dupla felfújt** (2 felújítás + 1 új 10×25 m) + palánta (ha keret). Fólia alapterület: **680,9 m²**. Részletek: `02-fejlesztési-terv/fejlesztési-terv.md`.
+**Tervezett pályázat:** 3 sátor **dupla felfújt** (2 felújítás + 1 új 10×25 m) + palánta (ha keret). Fólia utána: **669,5 m²**.

@@ -12,10 +12,10 @@
 | Prioritás | Tevékenység | Indoklás |
 |-----------|-------------|----------|
 | **1.** | **1 db új fóliasátor** (**10×25 m**, 250 m²) – **dupla felfújt** | Hírös típus, 2 réteg fólia + felfújó |
-| **2.** | **2 db meglévő sátor felújítása** – **dupla felfújtra** (430,9 m²) | 2× fólia, sínek, ventilátorok, vas |
+| **2.** | **2 db meglévő sátor felújítása** – **dupla felfújtra** (**419,5 m²**) | 2×7,6×27,6 m |
 | **3.** | **40 nm palántaház** – *csak ha a 10 M Ft keret nem telik be* | Saját palánta, keret feltöltése |
 
-**Eredményül:** **3 db fóliasátor** – **680,9 m²** összes fóliaterület (430,9 + 250).
+**Eredményül:** **3 db fóliasátor** – **669,5 m²** összes fóliaterület (419,5 + 250).
 
 ---
 
@@ -24,7 +24,7 @@
 | # | Tevékenység | Felhívás | Megjegyzés |
 |---|-------------|----------|------------|
 | **A** | **Új fóliasátor építése** (1 db) | 2. célterület – hideghajtató fóliasátrak építése / kertészeti létesítmény | Új építés: beadás **utáni** nap szerződés/számla; egy sátor <500 m² |
-| **B** | **2 db fóliasátor felújítása** | Felújítás, korszerűsítés – **okirat után** | Fotók kötelezők; 430,9 m² |
+| **B** | **2 db fóliasátor felújítása** | Felújítás, korszerűsítés – **okirat után** | 2×7,6×27,6 m = 419,5 m² |
 | **C** | **40 nm palántanevelő** (feltételes) | 2. célterület – üvegház / kertészeti létesítmény | Ha A+B+infra < 11,76 M Ft |
 | **D** | Öntözés / tápoldatozó | 3.1.2.2. – építéssel együtt | 3 sátor + palánta |
 | **E** | Palánta technológia (ha C) | Eszközbeszerzés | Polc, fűtés, csepegtető |
@@ -52,7 +52,7 @@
 
 *Dupla felfújt:* [Hírös – Duplafelfújt rendszer](https://www.foliahaz.hu/foliahazak/modernizalas/duplafelfujt-rendszer)
 
-### 3.2. B – Felújítás + **dupla felfújt** (2 db, 430,9 m²)
+### 3.2. B – Felújítás + **dupla felfújt** (2 db, 7,6×27,6 m, 419,5 m²)
 
 | Elem | Munka |
 |------|-------|
@@ -111,12 +111,15 @@
 
 | Állapot | Fólia terület | STÉ (EUR) – fólia |
 |---------|---------------|-------------------|
-| Kiinduló | 430,9 m² | ~5 087 |
-| **Terv (3 sátor)** | **680,9 m²** (430,9 + 250) | **~8 043** |
-| + szabadföld/bogyós | ~234 m² | ~141 |
-| **Összesen (becsült)** | | **~8 184** |
+| Kiinduló | 419,5 m² | **~4 959** |
+| + szabadföld/bogyós | 245,5 m² | **~148** |
+| **Kiinduló összesen** | | **~5 107** |
+| **Terv (3 sátor)** | **669,5 m²** (419,5 + 250) | fólia **~7 912** |
+| **Terv összesen** | | **~8 060** |
 
-**+50% cél** (kiinduló ~5 228): **≥ 7 842 EUR** → a **10×25 m-es új sátorral** a cél **valószínűen teljesül** (hivatalos EK / kormányhivatal számítás számít).
+**5 000 EUR minimum (kiinduló):** ☑ **~5 107 EUR** (~107 EUR ráhagyás).
+
+**+50% cél** (kiinduló ~5 107): **≥ 7 661 EUR** → beruházás után **~8 060 EUR** becsült → cél **teljesíthető**.
 
 ---
 
@@ -148,7 +151,7 @@
 |----------|---------|
 | Szívességi használat (Cserhátsurány/60) | Használati jog igazolás |
 | NAK 665 m² vs tényleges fólia | EK / kormányhivatal egyeztetés |
-| Új sátor más méret (10×25 vs 7,75×27,8) | EK-ban külön tétel; telephely elrendezés rajzon |
+| Új sátor más méret (10×25 vs 7,6×27,6) | EK-ban külön tétel; telephely elrendezés rajzon |
 | Új sátor 250 m² <500 m² | Önálló építés, pályázat szerint rendben |
 | Dupla felfújt költség | 3 ajánlat kötelező; webes szimpla ár **nem** elég |
 | Palánta kimarad | Dupla felfújt prioritás; üzleti tervben indoklás |

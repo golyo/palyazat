@@ -1,20 +1,20 @@
 # Növénytermesztés – területmegosztás (kiinduló pont)
 
 > **NAK összesített növényterület (Cserhátsurány/60):** 665 m²  
-> **Tényleges fóliasátor:** **430,9 m²** (2×27,8×7,75 m)  
-> **Szabadföldi rész (számított):** **234,1 m²**
+> **Tényleges fóliasátor:** **419,5 m²** (2×**7,6×27,6 m**)  
+> **Szabadföldi rész (számított):** **245,5 m²**
 
 ---
 
 ## 1. Elosztási elv
 
-A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fóliás alapterület 430,9 m²**, ezért:
+A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fóliás alapterület 419,5 m²**, ezért:
 
 1. A **zöldségek** (paradicsom, paprika, saláta, uborka) – NAK szerint összesen **600 m²** – **arányosan** oszlik meg fóliás és szabadföldi között.
 2. A **bogyósok** (málna, szamóca) – **teljes egészében szabadföld** (65 m²).
 
 **Képlet (zöldségek):**  
-`fólia m² = NAK m² × (430,9 / 600)`  
+`fólia m² = NAK m² × (419,5 / 600)`  
 `szabadföld m² = NAK m² − fólia m²`
 
 ---
@@ -23,31 +23,33 @@ A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fól
 
 | Növény | NAK (m²) | **Fóliasátor** (m²) | **Szabadföld** (m²) | STÉ kód (terv.) |
 |--------|----------|---------------------|---------------------|-----------------|
-| Paradicsom | 200 | **143,6** | 56,4 | V0000_S0000S / V0000_S0000TO |
-| Paprika | 200 | **143,6** | 56,4 | V0000_S0000S / V0000_S0000TO |
-| Saláta | 100 | **71,8** | 28,2 | V0000_S0000S / V0000_S0000TO |
-| Uborka | 100 | **71,8** | 28,2 | V0000_S0000S / V0000_S0000TO |
+| Paradicsom | 200 | **139,8** | 60,2 | V0000_S0000S / V0000_S0000TO |
+| Paprika | 200 | **139,8** | 60,2 | V0000_S0000S / V0000_S0000TO |
+| Saláta | 100 | **69,9** | 30,1 | V0000_S0000S / V0000_S0000TO |
+| Uborka | 100 | **69,9** | 30,1 | V0000_S0000S / V0000_S0000TO |
 | Málna | 40 | 0 | **40,0** | F3000T |
 | Szamóca | 25 | 0 | **25,0** | V0000_S0000TO (szabadföldi) |
-| **Összesen** | **665** | **430,8** | **234,2** | |
+| **Összesen** | **665** | **419,5** | **245,5** | |
 
-*Kerekítés: fólia összesen ≈ **430,9 m²**.*
+*Egy sátor: 7,6 × 27,6 m = **209,76 m²**; két sátor = **419,5 m²** (kerekítve).*
 
 ---
 
 ## 3. STÉ számítás – kiinduló helyzet
 
-| Kategória | Terület (ha) | STÉ (EUR) |
-|-----------|--------------|-----------|
-| Fóliasátor összes (V0000_S0000S) | 0,04309 | **5 087** |
-| Szabadföldi zöldség (V0000_S0000TO) | 0,01691 | **~113** |
-| Málna (F3000T) | 0,00400 | **11** |
-| Szamóca (V0000_S0000TO) | 0,00250 | **~17** |
-| **Összesen (számított)** | | **~5 228** |
+| Kategória | Terület (ha) | STÉ (EUR) | Megjegyzés |
+|-----------|--------------|-----------|------------|
+| Fóliasátor összes (V0000_S0000S) | 0,04195 | **~4 959** | 419,5 m² |
+| Szabadföldi zöldség (V0000_S0000TO) | 0,01805 | **~120** | 180,5 m² zöldség |
+| Málna (F3000T) | 0,00400 | **11** | |
+| Szamóca (V0000_S0000TO) | 0,00250 | **~17** | |
+| **Összesen (becsült)** | | **~5 107** | |
 
-**5 000 EUR minimum:** ☑ megvan
+**5 000 EUR minimum:** ☑ **igen** – kb. **107 EUR** ráhagyással
 
-**+50% cél** (~5 228 × 1,5 = **7 842 EUR**): a beruházás után (új fóliasátor) lásd fejlesztési terv.
+**+50% cél** (~5 107 × 1,5 = **7 661 EUR**): beruházás után lásd fejlesztési terv.
+
+*A számítás a korábbi bontás STÉ arányaira épül; a **hivatalos** érték az EK + kormányhivatali igazolás (4. melléklet).*
 
 ---
 
@@ -55,11 +57,11 @@ A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fól
 
 | Sátor | Méret | Állapot | Pályázat |
 |-------|-------|---------|----------|
-| 1. db | 27,8 × 7,75 m | üzemel, felújítandó | **A – felújítás** |
-| 2. db | 27,8 × 7,75 m | üzemel, felújítandó | **A – felújítás** |
-| 3. db | _új_ **10 × 25 m**, **dupla felfújt** | nincs | **Új építés** (Hírös) |
+| 1. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – dupla felfújt** |
+| 2. db | **7,6 × 27,6 m** | üzemel, felújítandó | **B – dupla felfújt** |
+| 3. db | _új_ **10 × 25 m**, dupla felfújt | nincs | **A – új építés** |
 
-**Felújítás után / új sátorral:** fólia összesen **680,9 m²** (430,9 + 250)
+**Beruházás után fólia összesen:** **669,5 m²** (419,5 + 250)
 
 ---
 
@@ -67,9 +69,8 @@ A NAK lap **665 m²** összes termesztési területet sorol fel. A **valós fól
 
 | Teendő | Megjegyzés |
 |--------|------------|
-| NAK 665 m² vs tényleges fólia 430,9 m² | EK-ban a **tényleges** felszín és kódok legyenek |
-| Cserhátsurány/60 szívességi használat | Használati jog igazolás a pályázathoz |
-| Növényenkénti felosztás | Ez a táblázat alap az üzleti tervhez |
+| NAK 665 m² vs tényleges fólia **419,5 m²** | EK-ban **7,6×27,6 m** (2 db) |
+| Cserhátsurány/60 szívességi használat | Használati jog igazolás |
 
 ---
 

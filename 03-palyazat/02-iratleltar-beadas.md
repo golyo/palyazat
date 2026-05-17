@@ -11,7 +11,7 @@
 
 | # | Irat / dokumentum | Melléklet | Projektünknél | Státusz |
 |---|-------------------|-----------|---------------|---------|
-| A1 | **Kormányhivatal igazolás** – mezőgazdasági terület (4. melléklet) | 4. mell. | 430,9 m² fólia, 40 m² bogyós, kódok | ☐ |
+| A1 | **Kormányhivatal igazolás** – mezőgazdasági terület (4. melléklet) | 4. mell. | **419,5 m²** fólia (2×7,6×27,6 m), bogyós, kódok | ☐ |
 | A2 | **EK kérelem** adatai (ami nincs a kormányhivatali lapon) | – | 2026 vagy 2025 EK | ☐ |
 | A3 | **Hatósági állatorvos igazolás** (5. melléklet) | 5. mell. | Ha van tyúk / állat STÉ-ben | ☐ |
 | A4 | ENAR adatok | – | Szarvasmarha/juh/kecske esetén | ☐ / n.a. |
@@ -50,7 +50,7 @@
 | C1.4 | Építésügy: engedély / bejelentés (2. melléklet) | ☐ |
 | C1.5 | **Szerződés/számla csak beadás utáni naptól** | ☐ |
 
-### C2. Fóliasátor felújítás + **dupla felfújt** (430,9 m², 2×27,8×7,75 m)
+### C2. Fóliasátor felújítás + **dupla felfújt** (419,5 m², 2×7,6×27,6 m)
 
 | # | Irat | Státusz |
 |---|------|---------|
@@ -86,11 +86,11 @@
 | # | Tartalom | Státusz |
 |---|----------|---------|
 | D1 | Pályázó bemutatása | ☐ |
-| D2 | Jelenlegi tevékenység, **STÉ ~5 228 EUR** | ☐ |
+| D2 | Jelenlegi tevékenység, **STÉ ~5 107 EUR** | ☐ |
 | D3 | Projekt leírás (új fólia + felújítás + palánta) | ☐ |
 | D4 | Piac, értékesítés | ☐ |
 | D5 | Költség-haszon | ☐ |
-| D6 | **STÉ +50%** vállalás és számítás (≥7 842 EUR; terv után ~7 769) | ☐ |
+| D6 | **STÉ +50%** vállalás (≥7 661 EUR; terv után ~8 060) | ☐ |
 | D7 | Fenntarthatóság | ☐ |
 | D8 | Ütemezés, finanszírozás, saját rész | ☐ |
 
@@ -149,4 +149,4 @@ Hely: `03-palyazat/hivatalos/`
 - [ ] **Nincs** okirat előtti felújítás / szerződés
 - [ ] Fájlnevek egyértelműek (pl. `foto-sator1-szerkezet-01.jpg`)
 - [ ] STÉ és +50% számok egyeznek az üzleti tervvel
-- [ ] 430,9 m² szerepel mindenhol (nem 625 m²)
+- [ ] **419,5 m²** fólia (2×7,6×27,6 m) mindenhol; STÉ ≥5 000 EUR

@@ -23,8 +23,8 @@
 
 | # | Teendő | Státusz |
 |---|--------|---------|
-| 0.1 | **STÉ ellenőrzés:** fólia + szabadföld + bogyós = **~5 228 EUR** (5 000 felett) | ☐ |
-| 0.2 | **+50% STÉ vállalás** (≥7 842 EUR) – 3 fóliasátorral reális (lásd fejlesztési-terv §5) | ☐ |
+| 0.1 | **STÉ ellenőrzés:** **~5 107 EUR** (5 000 felett) | ☐ |
+| 0.2 | **+50% STÉ vállalás** (≥7 661 EUR) – terv után ~8 060 becsült | ☐ |
 | 0.3 | Nincs kizáró ok: VP2-6.3.1-16 / -20 korábbi támogatás | ☐ |
 | 0.4 | Saját rész ~**1,76 M Ft** (15%) biztosítva | ☐ |
 | 0.5 | **Ne kezdjetek felújítást / építést** okirat előtt (fólia felújítás különösen!) | ☐ |
@@ -38,8 +38,8 @@
 | 1.1 | Pályázó forma rögzítése: őstermelő / EV / SZSZ | ☐ |
 | 1.2 | Mezőgazdasági tevékenység ≥ **180 nap** a beadás első napja előtt | ☐ |
 | 1.3 | **KNYR** besorolás kérelemre | ☐ |
-| 1.4 | **EK 2026** (vagy 2025) – terület: **430,9 m²** fólia, kódok | ☐ |
-| 1.5 | **Kormányhivatali igazolás** (4. melléklet) – 430,9 m² vs régi 625 m² egyeztetés | ☐ |
+| 1.4 | **EK 2026** – fólia: **419,5 m²** (2×7,6×27,6 m), kódok | ☐ |
+| 1.5 | **Kormányhivatali igazolás** (4. melléklet) – tényleges méret, STÉ ≥5 000 | ☐ |
 | 1.6 | Ha van tyúk: NÉBIH + **5. melléklet** állatorvosi igazolás | ☐ |
 | 1.7 | ŐCSG tag? → **13. melléklet** | ☐ |
 | 1.8 | Telephely tulajdon / használat igazolás (5.2. pont) | ☐ |

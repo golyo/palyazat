@@ -95,7 +95,7 @@
 Pályázó: Szendrei Zsuzsa, őstermelő
 FELIR: AB4248582 | NÉBIH: NEBIH1065438940
 Telephely: Cserhátsurány (fólia, növény) + Herencsény (nyúl)
-Fólia tényleges: 430,9 m² (2×27,8×7,75 m)
+Fólia tényleges: 419,5 m² (2×7,6×27,6 m)
 ```
 
 ---

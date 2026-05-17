@@ -22,8 +22,8 @@
 
 | Mód | Terület | Kultúrák |
 |-----|---------|----------|
-| **Fóliasátor** (2 db) | **430,9 m²** | Paradicsom, paprika, saláta, uborka |
-| **Szabadföld** | **~234 m²** | Zöldség szabadföldi rész + málna 40 m² + szamóca 25 m² |
+| **Fóliasátor** (2 db) | **419,5 m²** (2×7,6×27,6 m) | Paradicsom, paprika, saláta, uborka |
+| **Szabadföld** | **245,5 m²** | Zöldség szabadföldi rész + málna 40 m² + szamóca 25 m² |
 | NAK összesen | 665 m² | Cserhátsurány/60 |
 
 *Részletezés:* [noveny-terulet-megosztas.md](../01-allapotfelmérés/noveny-terulet-megosztas.md)
@@ -32,7 +32,7 @@
 
 | | EUR |
 |---|-----|
-| Kiinduló (becsült) | **~5 228** |
+| Kiinduló (becsült) | **~5 107** |
 | Jogosultság (5 000–10 000) | ☑ |
 
 ---
@@ -42,12 +42,12 @@
 ### Cél
 
 1. **Új fóliasátor** (**10×25 m**, **dupla felfújt**) – +250 m², jobb hőszigetelés  
-2. **2 meglévő sátor** felújítása **dupla felfújtra** (27,8×7,75 m)  
+2. **2 meglévő sátor** felújítása **dupla felfújtra** (7,6×27,6 m)  
 3. **40 nm palántaház** – ha a támogatási keret engedi (10 M Ft kitöltése)
 
 ### Eredmény
 
-- **3 db fóliasátor**, összesen **680,9 m²** (430,9 + 250)  
+- **3 db fóliasátor**, összesen **669,5 m²** (419,5 + 250)  
 - Saját palánta nevelés (ha palántaház megvalósul)  
 - Növekvő STÉ → +50% vállalás teljesítése
 
@@ -81,9 +81,9 @@ _[Kitöltendő: helyi piac, közvetlen értékesítés, mennyiségek kg/év]_
 
 | | EUR |
 |---|-----|
-| Kiinduló (okirat) | ~5 228 |
-| Cél (+50%) | **≥ 7 842** |
-| Terv utáni (3 fólia, becsült) | **~8 184** |
+| Kiinduló (okirat) | ~5 107 |
+| Cél (+50%) | **≥ 7 661** |
+| Terv utáni (3 fólia, becsült) | **~8 060** |
 
 Indoklás: új fóliasátor + teljes fóliás termesztés bejelentése az EK-ban.
 
@@ -98,4 +98,4 @@ Indoklás: új fóliasátor + teljes fóliás termesztés bejelentése az EK-ban
 
 ## 8. Összefoglaló
 
-> Szendrei Zsuzsa őstermelő Cserhátsurányban 430,9 m² fóliás és ~234 m² szabadföldi kertészeti termelést folytat. A pályázat **új fóliasátor építését**, **két meglévő sátor felújítását**, és **40 nm palántaház** létesítését (ha a keret engedi) támogatja. Igényelt támogatás: **10 millió forint**.
+> Szendrei Zsuzsa őstermelő Cserhátsurányban 419,5 m² fóliás és 245,5 m² szabadföldi kertészeti termelést folytat. STÉ kiinduló ~5 107 EUR. A pályázat **új fóliasátor építését**, **két meglévő sátor felújítását**, és **40 nm palántaház** létesítését (ha a keret engedi) támogatja. Igényelt támogatás: **10 millió forint**.

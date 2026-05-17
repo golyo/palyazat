@@ -10,7 +10,7 @@
 |---|------|---------|------------|
 | 1 | Őstermelő / EV / szociális szövetkezet | ☐ | |
 | 2 | Mezőgazdasági tevékenység ≥ **180 nap** | ☐ | Beadás első napja előtt |
-| 3 | **STÉ 5 000 – 10 000 EUR** | ☐ | **~5 098** (430,9 m² fólia+bogyós) – [jelenlegi-állapot.md](../01-allapotfelmérés/jelenlegi-állapot.md) |
+| 3 | **STÉ 5 000 – 10 000 EUR** | ☐ | **~5 107** (419,5 m² fólia) – [noveny-terulet-megosztas.md](../01-allapotfelmérés/noveny-terulet-megosztas.md) |
 | 4 | **KNYR** nyilvántartás | ☐ | Kérelemre besorolás |
 | 5 | Nincs párhuzamos **VP2-6.3.1-16 / -20** támogatás | ☐ | Kizáró ok |
 | 6 | Egy megvalósítási hely = **egy pályázat** | ☐ | |
@@ -48,7 +48,7 @@
 
 ## C. Projekt-specifikus szakmai anyagok
 
-### C1. Fóliasátor felújítás (430,9 m², 2×27,8×7,75 m)
+### C1. Fóliasátor felújítás (419,5 m², 2×7,6×27,6 m)
 
 | # | Elem | Státusz |
 |---|------|---------|
